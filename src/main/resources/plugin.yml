@@ -1,0 +1,8 @@
+name: Better-Vanilla
+version: ${project.version}
+main: lcstudios.bettervanilla.Main
+api-version: 1.16
+prefix: [ BV ]
+authors: [ ingpungya ]
+description: Better-Vanilla
+website: lcsw.ga
